@@ -1,0 +1,92 @@
+Module 1 – Overview of IT Industry
+What is a Program?
+LAB EXERCISE: Write a simple "Hello World" program in two different programming languages of
+your choice. Compare the structure and syntax.
+THEORY EXERCISE: Explain in your own words what a program is and how it functions.
+What is Programming?
+THEORY EXERCISE: What are the key steps involved in the programming process?
+Types of Programming Languages
+THEORY EXERCISE: What are the main differences between high-level and low-level programming
+languages?
+World Wide Web & How Internet Works
+LAB EXERCISE: Research and create a diagram of how data is transmitted from a client to a server
+over the internet.
+THEORY EXERCISE: Describe the roles of the client and server in web communication.
+Network Layers on Client and Server
+LAB EXERCISE: Design a simple HTTP client-server communication in any language.
+THEORY EXERCISE: Explain the function of the TCP/IP model and its layers.
+Client and Servers
+THEORY EXERCISE: Explain Client Server Communication
+Types of Internet Connections
+LAB EXERCISE: Research different types of internet connections (e.g., broadband, fiber, satellite)
+and list their pros and cons.
+THEORY EXERCISE: How does broadband differ from fiber-optic internet?
+Protocols
+LAB EXERCISE: Simulate HTTP and FTP requests using command line tools (e.g., curl).
+THEORY EXERCISE: What are the differences between HTTP and HTTPS protocols?
+Application Security
+LAB EXERCISE: Identify and explain three common application security vulnerabilities. Suggest
+possible solutions.
+THEORY EXERCISE: What is the role of encryption in securing applications?Software Applications and Its Types
+LAB EXERCISE: Identify and classify 5 applications you use daily as either system software or
+application software.
+THEORY EXERCISE: What is the difference between system software and application software?
+Software Architecture
+LAB EXERCISE: Design a basic three-tier software architecture diagram for a web application.
+THEORY EXERCISE: What is the significance of modularity in software architecture?
+Layers in Software Architecture
+LAB EXERCISE: Create a case study on the functionality of the presentation, business logic, and data
+access layers of a given software system.
+THEORY EXERCISE: Why are layers important in software architecture?
+Software Environments
+LAB EXERCISE: Explore different types of software environments (development, testing, production).
+Set up a basic environment in a virtual machine.
+THEORY EXERCISE: Explain the importance of a development environment in software production.
+Source Code
+LAB EXERCISE: Write and upload your first source code file to Github.
+THEORY EXERCISE: What is the difference between source code and machine code?
+Github and Introductions
+LAB EXERCISE: Create a Github repository and document how to commit and push code changes.
+THEORY EXERCISE: Why is version control important in software development?
+Student Account in Github
+LAB EXERCISE: Create a student account on Github and collaborate on a small project with a
+classmate.
+THEORY EXERCISE: What are the benefits of using Github for students?
+Types of Software
+LAB EXERCISE: Create a list of software you use regularly and classify them into the following
+categories: system, application, and utility software.
+THEORY EXERCISE: What are the differences between open-source and proprietary software?
+GIT and GITHUB Training
+LAB EXERCISE: Follow a GIT tutorial to practice cloning, branching, and merging repositories.
+THEORY EXERCISE: How does GIT improve collaboration in a software development team?Application Software
+LAB EXERCISE: Write a report on the various types of application software and how they improve
+productivity.
+THEORY EXERCISE: What is the role of application software in businesses?
+Software Development Process
+LAB EXERCISE: Create a flowchart representing the Software Development Life Cycle (SDLC).
+THEORY EXERCISE: What are the main stages of the software development process?
+Software Requirement
+LAB EXERCISE: Write a requirement specification for a simple library management system.
+THEORY EXERCISE: Why is the requirement analysis phase critical in software development?
+Software Analysis
+LAB EXERCISE: Perform a functional analysis for an online shopping system.
+THEORY EXERCISE: What is the role of software analysis in the development process?
+System Design
+LAB EXERCISE: Design a basic system architecture for a food delivery app.
+THEORY EXERCISE: What are the key elements of system design?
+Software Testing
+LAB EXERCISE: Develop test cases for a simple calculator program.
+THEORY EXERCISE: Why is software testing important?
+Maintenance
+LAB EXERCISE: Document a real-world case where a software application required critical
+maintenance.
+THEORY EXERCISE: What types of software maintenance are there?
+Development
+THEORY EXERCISE: What are the key differences between web and desktop applications?
+27. Web Application
+THEORY EXERCISE: What are the advantages of using web applications over desktop applications?
+28. Designing
+THEORY EXERCISE: What role does UI/UX design play in application development?
+29. Mobile Application
+THEORY EXERCISE: What are the differences between native and hybrid mobile apps?30. DFD (Data Flow Diagram)
+LAB EXERCISE: Create a D
